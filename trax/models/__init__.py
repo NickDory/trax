@@ -22,7 +22,7 @@ import six
 
 # pylint: disable=unused-import
 
-from tensor2tensor.layers import modalities  # pylint: disable=g-import-not-at-top
+from trax.layers import modalities  # pylint: disable=g-import-not-at-top
 from tensor2tensor.models import basic
 from tensor2tensor.models import bytenet
 from tensor2tensor.models import distillation
